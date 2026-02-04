@@ -4,7 +4,7 @@
 
 ## 1. Verantwortlicher
 Dinh Minh Nguyen  
-E-Mail: minh85@hotmail.de 
+E-Mail: yakuzaboy1@web.de 
 
 ## 2. Allgemeine Hinweise
 Der Schutz deiner Daten ist mir wichtig.  
@@ -37,4 +37,4 @@ Da keine personenbezogenen Daten gespeichert werden, sind Auskunfts-, Änderungs
 
 ## 9. Kontakt
 Bei Fragen zur Datenschutzerklärung:  
-📧 minh85@hotmail.de
+📧 yakuzaboy1@web.de 
